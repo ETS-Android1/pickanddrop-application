@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861234420722",
+    "project_id": "pick-and-drop-dcac2",
+    "storage_bucket": "pick-and-drop-dcac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861234420722:android:7f6cc5245e7e954b85e96b",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.aad.W9517102"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861234420722-t2tsvmmpmlkknd8vmf4cb0g8e1mnv2ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Q8QxZ7oBb9ZJMSOM8QpKDggnTAmAuKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861234420722-t2tsvmmpmlkknd8vmf4cb0g8e1mnv2ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
